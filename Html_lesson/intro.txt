@@ -1,0 +1,13 @@
+<head> store thing like CSS, link thing, make a title, which only browser will read it.
+
+<body> store the content of the webpage
+
+html is hypertext mark up language, adding space do nothing
+
+<br> line break, change to another line
+
+<hr> add a horitontal line
+
+<p> paragraph
+    1. can be any structural grouping of related content, such as images or form fields.
+    2. block level element
